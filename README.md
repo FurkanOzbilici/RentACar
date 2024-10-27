@@ -1,1 +1,1 @@
-"# RentACar" 
+In this project, I utilized Spring Boot to create a rental management application. Users can create, update, and delete rental requests. Each request is assigned a unique ID, allowing for efficient tracking. Additionally, users can not submit multiple requests with the same name, as each request is differentiated by its unique ID.
